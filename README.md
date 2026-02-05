@@ -22,3 +22,11 @@ Consulta la política de privacidad en `privacy-policy.md`.
 
 ## 📬 Soporte
 Para soporte o dudas, escribe a **joan.ugalde19@gmail.com**.
+
+# Soporte – SURF → Excel Tracker Copier
+
+Para soporte técnico o dudas sobre la extensión, contacta a:
+**joan.ugalde19@gmail.com**
+
+La extensión no recopila datos y solo copia texto visible dentro de la pestaña activa.
+
